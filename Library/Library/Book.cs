@@ -18,7 +18,6 @@ namespace Library
             //this.Authors = new List<string>();
             //this.Authors.AddRange(authors);
             this.Authors = new List<string>(authors);
-            Console.WriteLine("sadfasdasdada");
         }
     }
 }
